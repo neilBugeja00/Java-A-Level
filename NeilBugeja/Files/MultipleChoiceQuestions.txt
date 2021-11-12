@@ -1,0 +1,10 @@
+AppleTree.jpeg#What is the colour of the leaves of the tree?#Green#Blue#Red#Brown
+AppleTree.jpeg#What is the colour of the trunk of the tree?#Brown#Green#Blue#Red
+Sea.jpg#How many animals are there?#6#7#4#3
+Sea.jpg#What colour is the turtle?#Green#Blue#Grey#Pink
+Farm.jpg#How many rabbits are there?#2#1#3#0
+Farm.jpg#How many apples are there in total on the 2 trees?#20#15#18#17
+Farm.jpg#How many ducks are there?#0#2#1#3
+Garden.jpg#What colours are the fences?#Puple and Brown#Green and Yellow# Orange and Red# Blue and Green
+Park.jpg#How many buildings are there?#5#2#3#1
+Park.jpg#How many benches are there?#1#2#3#4

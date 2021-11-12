@@ -1,0 +1,12 @@
+AppleTree.jpeg#How many apples are there on the tree?#15
+AppleTree.jpeg#How many trees are there?#1
+AppleTree.jpeg#What is the colour of the apples?#Red
+Sea.jpg#What is the colour of the octapus?#Pink
+Sea.jpg#How many large clouds are there?#4
+Sea.jpg#What colour is the ocean?#Blue
+Farm.jpg#How many animals are there?#10
+Farm.jpg#What colour is the pig?#Pink
+Farm.jpg#How many donkeys are there?#1
+Garden.jpg#How many houses are there?#3
+Park.jpg#What colour is the bench?#White
+Park.jpg#What colour is the lamp post#Brown
